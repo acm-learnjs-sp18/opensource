@@ -343,4 +343,4 @@ git clone https://github.com/bitinn/node-fetch.git
 
 And Git will create a folder called `node-fetch` with all the files and configurations you need to start contributing to your very first open source project!
 
-*Thanks for reading!* We hope you enjoyed our introduction to open source and Git/GitHub.  
+*Thanks for reading!* We hope you enjoyed our introduction to open source and Git/GitHub. Now, go git down to business! 
